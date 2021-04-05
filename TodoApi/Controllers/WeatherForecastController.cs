@@ -13,7 +13,7 @@ namespace TodoApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "sondt", "dang", "thai", "hong", "son", "vu", "minh", "tung", "dang", "minh"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
