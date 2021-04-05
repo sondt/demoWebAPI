@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sondt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sondt\\.nuget\\packages"
+    ]
+  }
+}
